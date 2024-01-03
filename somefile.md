@@ -1,5 +1,8 @@
+
+
 ## Title
 
-This is just a files
+This is just a file.
 
-this was lower case
+This was lower case.
+
